@@ -30,7 +30,7 @@
     <Compile Include="..\Resources\SolutionAssemblyInfo.cs" Link="SolutionAssemblyInfo.cs" />
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Grpc.AspNetCore.Server">
-      <Version>2.28.0</Version>
+      <Version>2.47.0</Version>
     </PackageReference>
     <ProjectReference Include="..\Prometheus.AspNetCore\Prometheus.AspNetCore.csproj" />
   </ItemGroup>
